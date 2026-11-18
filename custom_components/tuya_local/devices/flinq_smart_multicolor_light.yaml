@@ -3,6 +3,9 @@ products:
   - id: kerlphr7ehml1kgl
     manufacturer: FlinQ Smart
     model: Multicolor Light
+  - id: bhnmkmvfqgx5jeze
+    manufacturer: FlinQ Smart
+    model: Smart In Outdoor String Light Pre
 entities:
   - entity: light
     icon: "mdi:string-lights"
